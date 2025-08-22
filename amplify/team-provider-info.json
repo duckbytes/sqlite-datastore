@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sqlitetest-dev-7a557-authRole",
+      "UnauthRoleArn": "arn:aws:iam::130063560692:role/amplify-sqlitetest-dev-7a557-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::130063560692:role/amplify-sqlitetest-dev-7a557-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-sqlitetest-dev-7a557-deployment",
+      "UnauthRoleName": "amplify-sqlitetest-dev-7a557-unauthRole",
+      "StackName": "amplify-sqlitetest-dev-7a557",
+      "StackId": "arn:aws:cloudformation:eu-west-1:130063560692:stack/amplify-sqlitetest-dev-7a557/a09ca4b0-77bd-11f0-a10c-063a3e07a959",
+      "AmplifyAppId": "d2rjdmgnnprdfr"
+    },
+    "categories": {
+      "api": {
+        "sqlitetest": {}
+      }
+    }
+  }
+}
